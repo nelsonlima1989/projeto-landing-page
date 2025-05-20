@@ -36,31 +36,20 @@ SheetMonkey – integração de formulário com backend
 
 Netlify – hospedagem do projeto
 
-📁 Estrutura de Arquivos
-plaintext
-Copiar
-Editar
-/
-├── index.html             # Página principal
-├── style.css              # Estilo da página
-├── index.js               # Script para o carrossel
-├── imagens/               # Imagens como ícones e setas
-├── cards/                 # Imagens dos cards de depoimentos
-└── README.md              # Este arquivo de documentação
 📺 Seções da Página
-Menu Superior
+Menu Superior:
 Contém o logotipo da Escola DNC e uma chamada para ação.
 
-Menu Informacional
+Menu Informacional:
 Destaques como certificado, carga horária e modalidade das aulas.
 
-Seção de Vídeo
+Seção de Vídeo:
 Vídeo institucional com texto de apoio ao lado.
 
-Carrossel de Depoimentos
+Carrossel de Depoimentos:
 Cards de alunos com navegação via setas esquerda/direita.
 
-Formulário de Inscrição
+Formulário de Inscrição:
 Campos para nome, e-mail e telefone, enviados ao SheetMonkey.
 
 ▶️ Como Usar Localmente
@@ -73,13 +62,13 @@ git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
 Abra o arquivo index.html em qualquer navegador moderno.
 
-📌 Requisitos
+📌 Requisitos:
 Navegador moderno (Chrome, Firefox, Edge, etc.)
 
 Conexão com a internet (para carregar fontes do Google e vídeo do YouTube)
 
-✍️ Autor
+✍️ Autor:
 Desenvolvido por Nelson Lima como parte de um projeto de prática em desenvolvimento web.
 
-📝 Licença
+📝 Licença:
 Este projeto é de uso livre e educacional. Sinta-se à vontade para adaptar, clonar e compartilhar com os devidos créditos.
