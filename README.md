@@ -36,6 +36,10 @@ SheetMonkey – integração de formulário com backend
 
 Netlify – hospedagem do projeto
 
+Visual Studio Code – ambiente de desenvolvimento (IDE)
+
+
+
 📺 Seções da Página
 Menu Superior:
 Contém o logotipo da Escola DNC e uma chamada para ação.
@@ -58,8 +62,8 @@ Clone ou baixe o repositório:
 bash
 Copiar
 Editar
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/nelsonlima1989/projeto-landing-page.git
+cd projeto-landing-page
 Abra o arquivo index.html em qualquer navegador moderno.
 
 📌 Requisitos:
